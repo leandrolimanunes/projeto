@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    background-image: url('/imagens/dragonball-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+h1 {
+    text-align: center;
+    color: #ff2e1f;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+    background-color: #260705;
+    border-radius: 50px;
+    background-color: #260705;
+    box-shadow: 1px 1px 3px 4px #260705a2;
+
+}
+
+header a {
+    text-decoration: none;
+    color: #ff2e1f;
+
+}
+
+header a:hover {
+
+    color: #ff2e1fae;
+    transition: 1s;
+
+}
+
+div.alerta {
+    color: #ff2e1f;
+    font-size: 19px;
+    background-color: #260705;
+    text-align: center;
+    border-radius: 50px;
+    margin: 15px;
+
+}
+
+div a {
+    color: #F2B705;
+    padding: 10px;
+    padding-top: 8px;
+
+
+}
+
+
+main {
+    margin: auto;
+    background-color: rgba(245, 222, 179, 0.869);
+    min-height: 400px;
+    max-width: 1000px;
+    text-align: center;
+    align-items: center;
+    text-align: justify;
+    border-radius: 30px;
+
+}
+
+article {
+    text-align: center;
+    margin: center;
+    align-items: center;
+    font-size: 1.11em;
+    color: #260705;
+    padding: 2px;
+    padding-top: 3px;
+}
+
+
+
+h2 {
+    font-size: 25px;
+    color: #ff2e1f;
+    margin-bottom: 2px;
+}
