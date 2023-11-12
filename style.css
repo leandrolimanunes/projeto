@@ -24,8 +24,7 @@
 
 body {
     height: 100vw;
-
-    background-image: url('/imagens/dragonball-wallpaper.jpg');
+    background-image: url('/imagens/papel.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
